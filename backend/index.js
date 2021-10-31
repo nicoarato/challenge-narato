@@ -20,6 +20,13 @@ server.get('/api/items/:id', (req, res) => {
         .catch(error => res.sendStatus(error.status).send(error));
 });
 
+
+server.get('/api/categories/:id', (req, res) => {
+    servicios.getCategoria(req.query.q)
+        .then(categoria => res.json(categoria))
+        .catch(error => res.sendStatus(error.status).send(error));
+});
+
 server.listen(5000, () => {
     console.log('Servidor escuchando en PORT: 5000');
 });

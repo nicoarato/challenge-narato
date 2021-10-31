@@ -1,0 +1,68 @@
+@import '../../styles/variables';
+
+article {
+  margin: 20px auto;
+  padding: 10px;
+  min-width: 540px;
+  max-width: 960px;
+  background-color: white;
+}
+
+.item-detail-container {
+  display: flex;
+
+  .item-detail-img-container {
+    flex: 2;
+    margin-right: 10px;
+    max-width: 680px;
+    img {
+      width: 100%;
+      
+    }
+  }
+
+  .item-detail-info {
+    flex: 1;
+
+    .item-detail-condition-sold {
+      font-size: 14px;
+      color: $meli-gray-9;
+    }
+
+    .item-detail-price {
+      font-size: 46px;
+      font-weight: normal;
+      margin: 32px 0;
+    }
+
+    .item-detail-buy {
+      padding: 10px;
+      background-color: $meli-blue;
+      color: $meli-gray-e;
+      border-radius: 4px;
+      border: none;
+      width: 100%;
+      cursor: pointer;
+      margin:  32px auto;
+      font-size: 20px;
+    }
+  }
+}
+
+.item-detail-description-title {
+  font-size: 28px;
+  margin: 32px auto;
+}
+
+.item-detail-description-text {
+  font-size: 16px;
+  color: $meli-gray-3;
+  margin-right: 30%;
+}
+
+.item-detail-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: $meli-gray-3;
+    margin-top: 16px;
+}

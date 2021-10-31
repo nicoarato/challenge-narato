@@ -1,0 +1,14 @@
+@import '../../styles/variables';
+
+header {
+    background-color: $meli-yellow;
+    min-height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-logo {
+    width: 40px;
+    margin-right: 20px;
+}

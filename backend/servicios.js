@@ -1,5 +1,14 @@
 const client = require('./cliente');
 
+exports.getCategoria = idCategory => {
+    return client.getCategory(idCategory).then(response => {
+        const categories = response.path_from_root;
+        return {
+            categories
+        }
+    });
+}
+
 exports.getItems = query => {
 
     return client.search(query).then(response => {
@@ -26,7 +35,9 @@ exports.getItems = query => {
                     },
                     picture: item.thumbnail,
                     condition: item.condition,
-                    free_shipping: item.shipping.free_shipping
+                    free_shipping: item.shipping.free_shipping,
+                    address: item.address.city_name
+
                 };
             });
 
@@ -41,6 +52,7 @@ exports.getItems = query => {
 exports.getItemDetail = query => {
     console.log(`Consultando el item ${query}...`);
     return client.getItemData(query).then(responses => {
+        // const categories = response.available_filters[0].values.map(category => category.name);
         const [item, description] = responses;
         const [amount, decimals] = item.price.toString().split('.');
         let decimal = (decimals) ? decimals : 0;
@@ -61,8 +73,10 @@ exports.getItemDetail = query => {
                 condition: item.condition,
                 free_shipping: item.shipping.free_shipping,
                 sold_quantity: item.sold_quantity,
-                description: description.plain_text
+                description: description.plain_text,
             }
         };
     });
 };
+
+

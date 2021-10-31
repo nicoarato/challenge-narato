@@ -1,3 +1,4 @@
+
 const https = require('https');
 const variables = require('./environments/variables')
 const URL_MELI = variables.__URL_MELI;
@@ -14,17 +15,18 @@ function request(url) {
                 });
                 response.on('end', () => {
 
-                    if (response.statusCode === 200) {
-                        try {
+                    try {
+                        if (response.statusCode === 200) {
                             const json = JSON.parse(body);
                             resolve(json);
-                        } catch (e) {
-                            console.log('Error parsing JSON!');
-                            reject(e)
+                        }
+                        else {
+                            console.log('status: ', response.statusCode);
                         }
                     }
-                    else {
-                        console.log('status: ', response.statusCode);
+                    catch (e) {
+                        console.log('Error parsing JSON!');
+                        reject(e)
                     }
                 });
             })
@@ -42,3 +44,8 @@ exports.getItemData = query => {
         request(`${URL_MELI}/items/${query}/description`)
     ]);
 };
+
+exports.getCategory = query => {
+    // return request(`${URL_MELI}/categories/${query}`)
+    return request(`https://api.mercadolibre.com/categories/MLA1002`)
+}

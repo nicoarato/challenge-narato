@@ -1,0 +1,1353 @@
+{
+    "site_id": "MLA",
+    "country_default_time_zone": "GMT-03:00",
+    "query": "televisor",
+    "paging": {
+        "total": 199727,
+        "primary_results": 1000,
+        "offset": 0,
+        "limit": 2
+    },
+    "results": [
+        {
+            "id": "MLA1102426496",
+            "site_id": "MLA",
+            "title": "Soporte Smart Tech Mf550dl De Pared Para Tv/monitor De 32  A 75  Negro",
+            "seller": {
+                "id": 139673546,
+                "permalink": "http://perfil.mercadolibre.com.ar/PROSHOP1000",
+                "registration_date": "2013-06-03T18:54:12.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "medium_seller",
+                    "eshop",
+                    "credits_profile",
+                    "mshops",
+                    "messages_as_seller"
+                ],
+                "eshop": {
+                    "seller": 139673546,
+                    "eshop_rubro": null,
+                    "eshop_id": 441835,
+                    "nick_name": "PROSHOP1000",
+                    "site_id": "MLA",
+                    "eshop_logo_url": "http://resources.mlstatic.com/eshops/139673546v36ddf4.png",
+                    "eshop_status_id": 1,
+                    "eshop_experience": 0,
+                    "eshop_locations": []
+                },
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.0048,
+                            "value": 101
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0136,
+                            "value": 286
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0021,
+                            "value": 41
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 20018
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 6384,
+                        "period": "historic",
+                        "total": 121939,
+                        "ratings": {
+                            "negative": 0.02,
+                            "neutral": 0.01,
+                            "positive": 0.97
+                        },
+                        "completed": 115555
+                    }
+                }
+            },
+            "price": 4179.05,
+            "prices": {
+                "id": "MLA1102426496",
+                "prices": [
+                    {
+                        "id": "1",
+                        "type": "standard",
+                        "amount": 4399,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2021-09-09T13:44:54Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    },
+                    {
+                        "id": "11",
+                        "type": "promotion",
+                        "amount": 4179.05,
+                        "regular_amount": 4399,
+                        "currency_id": "ARS",
+                        "last_updated": "2021-10-24T23:06:42Z",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2021-10-30T03:00:00Z",
+                            "end_time": "2021-10-31T02:59:59Z",
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {
+                            "promotion_id": "4984028-MLA1102426496",
+                            "promotion_type": "deal_of_the_day"
+                        }
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "12",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2021-10-27T05:00:14Z",
+                            "end_time": "2021-11-03T05:00:14Z",
+                            "eligible": true
+                        },
+                        "amount": 3959.1,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2021-10-27T05:00:14Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 158,
+            "sold_quantity": 564,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2041-09-04T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/soporte-smart-tech-mf550dl-de-pared-para-tvmonitor-de-32-a-75-negro/p/MLA18025353",
+            "thumbnail": "http://http2.mlstatic.com/D_762963-MLA47048230974_082021-I.jpg",
+            "thumbnail_id": "762963-MLA47048230974_082021",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 592.62,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": null,
+                "city_name": "Microcentro"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "fulfillment",
+                    "self_service_out",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "fulfillment",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Microcentro"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "attribute_group_id": "OTHERS",
+                    "values": [
+                        {
+                            "source": 1,
+                            "id": "410971",
+                            "name": "Smart Tech",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "name": "Marca",
+                    "value_id": "410971",
+                    "value_name": "Smart Tech",
+                    "value_struct": null
+                },
+                {
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1572
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 1572,
+                    "id": "ITEM_CONDITION",
+                    "value_name": "Nuevo"
+                },
+                {
+                    "value_id": "10260691",
+                    "value_name": "MF550DL",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "values": [
+                        {
+                            "name": "MF550DL",
+                            "struct": null,
+                            "source": 1,
+                            "id": "10260691"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 1
+                },
+                {
+                    "value_id": null,
+                    "value_struct": {
+                        "number": 58,
+                        "unit": "cm"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "id": "PACKAGE_LENGTH",
+                    "name": "Largo del paquete",
+                    "value_name": "58 cm",
+                    "values": [
+                        {
+                            "source": 1,
+                            "id": null,
+                            "name": "58 cm",
+                            "struct": {
+                                "number": 58,
+                                "unit": "cm"
+                            }
+                        }
+                    ],
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "name": "Peso del paquete",
+                    "value_id": null,
+                    "values": [
+                        {
+                            "struct": {
+                                "number": 3320,
+                                "unit": "g"
+                            },
+                            "source": 1,
+                            "id": null,
+                            "name": "3320 g"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "id": "PACKAGE_WEIGHT",
+                    "value_name": "3320 g",
+                    "value_struct": {
+                        "number": 3320,
+                        "unit": "g"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "source": 1
+                }
+            ],
+            "original_price": 4399,
+            "category_id": "MLA41925",
+            "official_store_id": null,
+            "domain_id": "MLA-TV_AND_MONITOR_MOUNTS",
+            "catalog_product_id": "MLA18025353",
+            "tags": [
+                "brand_verified",
+                "deal_of_the_day",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "loyalty_discount_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed",
+                "best_seller_candidate"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "order_backend": 1
+        },
+        {
+            "id": "MLA924487720",
+            "site_id": "MLA",
+            "title": "Smart Tv Samsung Series 7 Un50tu7000gczb Led 4k 50  220v - 240v",
+            "seller": {
+                "id": 63561913,
+                "permalink": "http://perfil.mercadolibre.com.ar/ARGENTINA+COLOR",
+                "registration_date": "2011-07-12T09:29:04.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "credits_priority_4",
+                    "credits_profile",
+                    "eshop",
+                    "mshops",
+                    "messages_as_seller"
+                ],
+                "eshop": {
+                    "seller": 63561913,
+                    "eshop_rubro": null,
+                    "eshop_id": 166338,
+                    "nick_name": "ARGENTINA COLOR",
+                    "site_id": "MLA",
+                    "eshop_logo_url": "http://resources.mlstatic.com/eshops/63561913.png",
+                    "eshop_status_id": 2,
+                    "eshop_experience": 0,
+                    "eshop_locations": []
+                },
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.008,
+                            "value": 47
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0137,
+                            "value": 80
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0366,
+                            "value": 207
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 5537
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 2228,
+                        "period": "historic",
+                        "total": 44497,
+                        "ratings": {
+                            "negative": 0.04,
+                            "neutral": 0.02,
+                            "positive": 0.94
+                        },
+                        "completed": 42269
+                    }
+                }
+            },
+            "price": 66058,
+            "prices": {
+                "id": "MLA924487720",
+                "prices": [
+                    {
+                        "id": "45",
+                        "type": "standard",
+                        "amount": 66058,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2021-10-29T18:31:29Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "40",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2021-10-18T04:22:17Z",
+                            "end_time": "2021-10-25T04:22:17Z",
+                            "eligible": true
+                        },
+                        "amount": 63451,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2021-10-18T04:22:17Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 43,
+            "sold_quantity": 32,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2041-06-03T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/smart-tv-samsung-series-7-un50tu7000gczb-led-4k-50-220v-240v/p/MLA16233171",
+            "thumbnail": "http://http2.mlstatic.com/D_878604-MLA44160072739_112020-I.jpg",
+            "thumbnail_id": "878604-MLA44160072739_112020",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 9367.57,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": "TUxBQlZJTDcwOTla",
+                "city_name": "Villa Urquiza"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": "TUxBQlZJTDcwOTla",
+                    "name": "Villa Urquiza"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Marca",
+                    "value_id": "206",
+                    "values": [
+                        {
+                            "id": "206",
+                            "name": "Samsung",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales",
+                    "id": "BRAND",
+                    "value_struct": null,
+                    "source": 1,
+                    "value_name": "Samsung"
+                },
+                {
+                    "source": 1,
+                    "name": "Modelo",
+                    "value_id": "8283717",
+                    "value_name": "UN50TU7000",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "8283717",
+                            "name": "UN50TU7000",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "id": "MODEL",
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "ALPHANUMERIC_MODEL",
+                    "value_name": "UN50TU7000GCZB",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "name": "Modelo alfanumérico",
+                    "value_id": "9169557",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "9169557",
+                            "name": "UN50TU7000GCZB"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "value_id": "2230284",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 3045741222775799,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "source": 3045741222775799,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "LINE",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "72",
+                            "name": "Series 7",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "name": "Línea",
+                    "value_id": "72",
+                    "value_name": "Series 7"
+                },
+                {
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "value_id": "999591",
+                    "value_name": "20 W",
+                    "value_struct": {
+                        "number": 20,
+                        "unit": "W"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "id": "MAX_SPEAKERS_POWER",
+                    "name": "Potencia máxima de los parlantes",
+                    "values": [
+                        {
+                            "id": "999591",
+                            "name": "20 W",
+                            "struct": {
+                                "number": 20,
+                                "unit": "W"
+                            },
+                            "source": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "WEIGHT",
+                    "name": "Peso",
+                    "value_name": "11.4 kg",
+                    "source": 1,
+                    "value_id": "1072426",
+                    "value_struct": {
+                        "number": 11.4,
+                        "unit": "kg"
+                    },
+                    "values": [
+                        {
+                            "source": 1,
+                            "id": "1072426",
+                            "name": "11.4 kg",
+                            "struct": {
+                                "number": 11.4,
+                                "unit": "kg"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLA1002",
+            "official_store_id": null,
+            "domain_id": "MLA-TELEVISIONS",
+            "catalog_product_id": "MLA16233171",
+            "tags": [
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed",
+                "best_seller_candidate",
+                "meli_choice_candidate"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "order_backend": 2
+        }
+    ],
+    "sort": {
+        "id": "relevance",
+        "name": "Más relevantes"
+    },
+    "available_sorts": [
+        {
+            "id": "price_asc",
+            "name": "Menor precio"
+        },
+        {
+            "id": "price_desc",
+            "name": "Mayor precio"
+        }
+    ],
+    "filters": [],
+    "available_filters": [
+        {
+            "id": "category",
+            "name": "Categorías",
+            "type": "text",
+            "values": [
+                {
+                    "id": "MLA1648",
+                    "name": "Computación",
+                    "results": 4690
+                },
+                {
+                    "id": "MLA1002",
+                    "name": "Televisores",
+                    "results": 12904
+                },
+                {
+                    "id": "MLA322074",
+                    "name": "Repuestos para TV",
+                    "results": 69523
+                },
+                {
+                    "id": "MLA1574",
+                    "name": "Hogar, Muebles y Jardín",
+                    "results": 21041
+                },
+                {
+                    "id": "MLA1168",
+                    "name": "Música, Películas y Series",
+                    "results": 18400
+                },
+                {
+                    "id": "MLA3025",
+                    "name": "Libros, Revistas y Comics",
+                    "results": 15720
+                },
+                {
+                    "id": "MLA1132",
+                    "name": "Juegos y Juguetes",
+                    "results": 13560
+                },
+                {
+                    "id": "MLA431414",
+                    "name": "Accesorios para TV",
+                    "results": 13173
+                },
+                {
+                    "id": "MLA4632",
+                    "name": "Controles Remotos",
+                    "results": 10201
+                },
+                {
+                    "id": "MLA5725",
+                    "name": "Accesorios para Vehículos",
+                    "results": 5360
+                },
+                {
+                    "id": "MLA1367",
+                    "name": "Antigüedades y Colecciones",
+                    "results": 2840
+                },
+                {
+                    "id": "MLA11830",
+                    "name": "Componentes Electrónicos",
+                    "results": 2440
+                },
+                {
+                    "id": "MLA3690",
+                    "name": "Accesorios para Audio y Video",
+                    "results": 1683
+                },
+                {
+                    "id": "MLA5054",
+                    "name": "Cables",
+                    "results": 1681
+                },
+                {
+                    "id": "MLA1430",
+                    "name": "Ropa y Accesorios",
+                    "results": 1280
+                },
+                {
+                    "id": "MLA1500",
+                    "name": "Construcción",
+                    "results": 1000
+                },
+                {
+                    "id": "MLA409810",
+                    "name": "Audio",
+                    "results": 800
+                },
+                {
+                    "id": "MLA1144",
+                    "name": "Consolas y Videojuegos",
+                    "results": 800
+                },
+                {
+                    "id": "MLA352001",
+                    "name": "Media Streaming",
+                    "results": 565
+                },
+                {
+                    "id": "MLA4641",
+                    "name": "Pilas y Cargadores",
+                    "results": 440
+                },
+                {
+                    "id": "MLA9304",
+                    "name": "Souvenirs, Cotillón y Fiestas",
+                    "results": 440
+                },
+                {
+                    "id": "MLA1384",
+                    "name": "Bebés",
+                    "results": 400
+                },
+                {
+                    "id": "MLA5726",
+                    "name": "Electrodomésticos y Aires Ac.",
+                    "results": 400
+                },
+                {
+                    "id": "MLA1499",
+                    "name": "Industrias y Oficinas",
+                    "results": 320
+                },
+                {
+                    "id": "MLA1182",
+                    "name": "Instrumentos Musicales",
+                    "results": 320
+                },
+                {
+                    "id": "MLA1051",
+                    "name": "Celulares y Teléfonos",
+                    "results": 280
+                },
+                {
+                    "id": "MLA1368",
+                    "name": "Arte, Librería y Mercería",
+                    "results": 240
+                },
+                {
+                    "id": "MLA1039",
+                    "name": "Cámaras y Accesorios",
+                    "results": 240
+                },
+                {
+                    "id": "MLA1540",
+                    "name": "Servicios",
+                    "results": 240
+                },
+                {
+                    "id": "MLA58775",
+                    "name": "Fundas y Bolsos",
+                    "results": 200
+                },
+                {
+                    "id": "MLA1276",
+                    "name": "Deportes y Fitness",
+                    "results": 160
+                },
+                {
+                    "id": "MLA3937",
+                    "name": "Joyas y Relojes",
+                    "results": 80
+                },
+                {
+                    "id": "MLA1015",
+                    "name": "Video",
+                    "results": 80
+                },
+                {
+                    "id": "MLA1512",
+                    "name": "Agro",
+                    "results": 40
+                },
+                {
+                    "id": "MLA1071",
+                    "name": "Animales y Mascotas",
+                    "results": 40
+                },
+                {
+                    "id": "MLA1246",
+                    "name": "Belleza y Cuidado Personal",
+                    "results": 40
+                },
+                {
+                    "id": "MLA407134",
+                    "name": "Herramientas",
+                    "results": 40
+                },
+                {
+                    "id": "MLA1953",
+                    "name": "Otras categorías",
+                    "results": 240
+                },
+                {
+                    "id": "MLA1070",
+                    "name": "Otros",
+                    "results": 200
+                }
+            ]
+        },
+        {
+            "id": "official_store",
+            "name": "Tiendas oficiales",
+            "type": "text",
+            "values": [
+                {
+                    "id": "all",
+                    "name": "Todas las tiendas oficiales",
+                    "results": 2438
+                },
+                {
+                    "id": "1938",
+                    "name": "Mercado Libre Electronica",
+                    "results": 57
+                },
+                {
+                    "id": "229",
+                    "name": "Fravega",
+                    "results": 85
+                },
+                {
+                    "id": "1550",
+                    "name": "Samsung",
+                    "results": 3
+                },
+                {
+                    "id": "1372",
+                    "name": "Mall 360",
+                    "results": 2
+                },
+                {
+                    "id": "1824",
+                    "name": "Tedge",
+                    "results": 2
+                },
+                {
+                    "id": "530",
+                    "name": "LG",
+                    "results": 2
+                },
+                {
+                    "id": "58",
+                    "name": "Edifier",
+                    "results": 2
+                },
+                {
+                    "id": "1255",
+                    "name": "Castillo",
+                    "results": 41
+                },
+                {
+                    "id": "47",
+                    "name": "Casa del audio",
+                    "results": 41
+                },
+                {
+                    "id": "1213",
+                    "name": "Hendel Hogar",
+                    "results": 1
+                },
+                {
+                    "id": "2507",
+                    "name": "IQUAL",
+                    "results": 1
+                },
+                {
+                    "id": "308",
+                    "name": "Naldo",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "discount",
+            "name": "Descuentos",
+            "type": "number",
+            "values": [
+                {
+                    "id": "5-100",
+                    "name": "Desde 5% OFF",
+                    "results": 1331
+                },
+                {
+                    "id": "10-100",
+                    "name": "Desde 10% OFF",
+                    "results": 609
+                },
+                {
+                    "id": "15-100",
+                    "name": "Desde 15% OFF",
+                    "results": 246
+                },
+                {
+                    "id": "20-100",
+                    "name": "Desde 20% OFF",
+                    "results": 166
+                },
+                {
+                    "id": "25-100",
+                    "name": "Desde 25% OFF",
+                    "results": 123
+                },
+                {
+                    "id": "30-100",
+                    "name": "Desde 30% OFF",
+                    "results": 83
+                }
+            ]
+        },
+        {
+            "id": "state",
+            "name": "Ubicación",
+            "type": "text",
+            "values": [
+                {
+                    "id": "TUxBUENBUGw3M2E1",
+                    "name": "Capital Federal",
+                    "results": 69726
+                },
+                {
+                    "id": "TUxBUEdSQWVmNTVm",
+                    "name": "Bs.As. G.B.A. Oeste",
+                    "results": 27678
+                },
+                {
+                    "id": "TUxBUEdSQXJlMDNm",
+                    "name": "Bs.As. G.B.A. Sur",
+                    "results": 23372
+                },
+                {
+                    "id": "TUxBUEdSQWU4ZDkz",
+                    "name": "Bs.As. G.B.A. Norte",
+                    "results": 22252
+                },
+                {
+                    "id": "TUxBUFpPTmFpbnRl",
+                    "name": "Buenos Aires Interior",
+                    "results": 12407
+                },
+                {
+                    "id": "TUxBUFNBTmU5Nzk2",
+                    "name": "Santa Fe",
+                    "results": 10927
+                },
+                {
+                    "id": "TUxBUENPUmFkZGIw",
+                    "name": "Córdoba",
+                    "results": 9647
+                },
+                {
+                    "id": "TUxBUENPU2ExMmFkMw",
+                    "name": "Bs.As. Costa Atlántica",
+                    "results": 3962
+                },
+                {
+                    "id": "TUxBUE1FTmE5OWQ4",
+                    "name": "Mendoza",
+                    "results": 3525
+                },
+                {
+                    "id": "TUxBUEVOVHMzNTdm",
+                    "name": "Entre Ríos",
+                    "results": 2282
+                },
+                {
+                    "id": "TUxBUFNBTno3ZmY5",
+                    "name": "Santa Cruz",
+                    "results": 1601
+                },
+                {
+                    "id": "TUxBUFRVQ244NmM3",
+                    "name": "Tucumán",
+                    "results": 1563
+                },
+                {
+                    "id": "TUxBUFLNT29iZmZm",
+                    "name": "Río Negro",
+                    "results": 840
+                },
+                {
+                    "id": "TUxBUFNBTm5lYjU4",
+                    "name": "San Juan",
+                    "results": 765
+                },
+                {
+                    "id": "TUxBUENIVXQxNDM1MQ",
+                    "name": "Chubut",
+                    "results": 763
+                },
+                {
+                    "id": "TUxBUFNBTnM0ZTcz",
+                    "name": "San Luis",
+                    "results": 722
+                },
+                {
+                    "id": "TUxBUFNBTGFjMTJi",
+                    "name": "Salta",
+                    "results": 681
+                },
+                {
+                    "id": "TUxBUEpVSnk3YmUz",
+                    "name": "Jujuy",
+                    "results": 642
+                },
+                {
+                    "id": "TUxBUENPUnM5MjI0",
+                    "name": "Corrientes",
+                    "results": 640
+                },
+                {
+                    "id": "TUxBUE1JU3MzNjIx",
+                    "name": "Misiones",
+                    "results": 522
+                },
+                {
+                    "id": "TUxBUE5FVW4xMzMzNQ",
+                    "name": "Neuquén",
+                    "results": 484
+                },
+                {
+                    "id": "TUxBUExBWmE1OWMy",
+                    "name": "La Pampa",
+                    "results": 361
+                },
+                {
+                    "id": "TUxBUENIQW8xMTNhOA",
+                    "name": "Chaco",
+                    "results": 320
+                },
+                {
+                    "id": "TUxBUExBWmEyNzY0",
+                    "name": "La Rioja",
+                    "results": 202
+                },
+                {
+                    "id": "TUxBUFNBTm9lOTlk",
+                    "name": "Santiago del Estero",
+                    "results": 42
+                },
+                {
+                    "id": "TUxBUENBVGFiY2Fm",
+                    "name": "Catamarca",
+                    "results": 41
+                },
+                {
+                    "id": "TUxBUEZPUmE1OTk5",
+                    "name": "Formosa",
+                    "results": 41
+                }
+            ]
+        },
+        {
+            "id": "price",
+            "name": "Precio",
+            "type": "range",
+            "values": [
+                {
+                    "id": "*-1000.0",
+                    "name": "Hasta $ 1.000",
+                    "results": 53648
+                },
+                {
+                    "id": "1000.0-4500.0",
+                    "name": "$1.000 a $4.500",
+                    "results": 74934
+                },
+                {
+                    "id": "4500.0-*",
+                    "name": "Más de $4.500",
+                    "results": 71118
+                }
+            ]
+        },
+        {
+            "id": "accepts_mercadopago",
+            "name": "Filtro por MercadoPago",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con MercadoPago",
+                    "results": 199700
+                }
+            ]
+        },
+        {
+            "id": "installments",
+            "name": "Pago",
+            "type": "text",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "En cuotas",
+                    "results": 199100
+                },
+                {
+                    "id": "no_interest",
+                    "name": "Sin interés",
+                    "results": 19019
+                }
+            ]
+        },
+        {
+            "id": "shipping",
+            "name": "Tipo de entrega",
+            "type": "text",
+            "values": [
+                {
+                    "id": "mercadoenvios",
+                    "name": "Con envío",
+                    "results": 177209
+                },
+                {
+                    "id": "fulfillment",
+                    "name": "Full",
+                    "results": 933
+                }
+            ]
+        },
+        {
+            "id": "power_seller",
+            "name": "Filtro por calidad de vendedores",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Mejores vendedores",
+                    "results": 74900
+                }
+            ]
+        },
+        {
+            "id": "since",
+            "name": "Filtro por fecha de comienzo",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Publicados hoy",
+                    "results": 600
+                }
+            ]
+        },
+        {
+            "id": "until",
+            "name": "Filtro por fecha de finalización",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Finalizan hoy",
+                    "results": 240
+                }
+            ]
+        },
+        {
+            "id": "has_video",
+            "name": "Filtro por publicaciones con video",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Publicaciones con video",
+                    "results": 9125
+                }
+            ]
+        },
+        {
+            "id": "has_pictures",
+            "name": "Filtro por publicaciones con imágenes",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con fotos",
+                    "results": 199580
+                }
+            ]
+        },
+        {
+            "id": "adult_content",
+            "name": "Filtro de contenido adulto",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Contenido adulto",
+                    "results": 6
+                }
+            ]
+        },
+        {
+            "id": "all_payment_methods_discount",
+            "name": "Descuentos para todos los medios de pago",
+            "type": "number",
+            "values": [
+                {
+                    "id": "10-100",
+                    "name": "Desde 10% OFF",
+                    "results": 41
+                }
+            ]
+        },
+        {
+            "id": "price_campaign_id",
+            "name": "Campaña",
+            "type": "number",
+            "values": [
+                {
+                    "id": "MLA6713",
+                    "name": "MLA6713",
+                    "results": 6
+                },
+                {
+                    "id": "MLA6888",
+                    "name": "MLA6888",
+                    "results": 3
+                },
+                {
+                    "id": "P-MLA1941006",
+                    "name": "P-MLA1941006",
+                    "results": 1
+                },
+                {
+                    "id": "MLA6500",
+                    "name": "MLA6500",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "promotion_type",
+            "name": "Tipo de promoción",
+            "type": "text",
+            "values": [
+                {
+                    "id": "deal_of_the_day",
+                    "name": "Oferta del día",
+                    "results": 2
+                },
+                {
+                    "id": "lightning",
+                    "name": "Oferta relámpago",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "shipping_cost",
+            "name": "Costo de envío",
+            "type": "text",
+            "values": [
+                {
+                    "id": "free",
+                    "name": "Gratis",
+                    "results": 43954
+                }
+            ]
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condición",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "2230581",
+                    "name": "Usado",
+                    "results": 102921
+                },
+                {
+                    "id": "2230284",
+                    "name": "Nuevo",
+                    "results": 95160
+                }
+            ]
+        }
+    ]
+}
