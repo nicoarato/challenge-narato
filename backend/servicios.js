@@ -1,13 +1,20 @@
 const client = require('./cliente');
 
 exports.getCategoria = idCategory => {
-    return client.getCategory(idCategory).then(response => {
-        const categories = response.path_from_root;
+    console.log('Solicitando categoria: ', idCategory)
+    return client.getCategoria(idCategory).then(response => {
+        const author = {
+            name: 'Nicolas',
+            lastname: 'Arato'
+        };
+        const categories = response.path_from_root.map(categoria => categoria.name);
         return {
+            author,
             categories
         }
     });
-}
+};
+
 
 exports.getItems = query => {
 

@@ -45,7 +45,6 @@ exports.getItemData = query => {
     ]);
 };
 
-exports.getCategory = query => {
-    // return request(`${URL_MELI}/categories/${query}`)
-    return request(`https://api.mercadolibre.com/categories/MLA1002`)
+exports.getCategoria = query => {
+    return request(`${URL_MELI}/categories/${query}`)
 }

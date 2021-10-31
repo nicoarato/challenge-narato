@@ -22,7 +22,8 @@ server.get('/api/items/:id', (req, res) => {
 
 
 server.get('/api/categories/:id', (req, res) => {
-    servicios.getCategoria(req.query.q)
+    // console.log('REQ: ', req.params.id)
+    servicios.getCategoria(req.params.id)
         .then(categoria => res.json(categoria))
         .catch(error => res.sendStatus(error.status).send(error));
 });
